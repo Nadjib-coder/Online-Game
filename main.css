@@ -1,0 +1,22 @@
+body {
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    
+}
+h1 {
+    text-align: center;
+    margin-top: 90px;
+    color: rgb(239, 235, 244);
+}
+#root {
+    color: #fafafa;
+    font-size: 40px;
+    text-align: center;
+    margin: 5vh auto 0;
+}
+p {
+    text-align: center;
+    color: #cb9292;
+    font-size: 40px;
+    margin-bottom: 0;
+}
